@@ -1,0 +1,81 @@
+
+.center {
+    background-image: url(wood_stock_image.jpeg);
+    text-align: center;
+    margin-top: 90px; 
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+img {
+    display: inline;
+    width: 200px;
+    height: 100px;
+}
+#footer {
+    width: 100%;
+    border-top: solid 2px black;
+    background-color: white;
+    position: fixed;
+    bottom: 0;
+}
+html {
+    box-sizing: 'border-box'
+}
+#input-parent {
+    width: 160px; 
+    position: relative;
+    left: 469px;
+    padding-top: 30px; 
+}
+#menu-btns {
+    padding-top: 10px;
+}
+.footer-columns {
+    width: 33.3%;
+    float: right;
+}
+.center-footer-column {
+    padding-top: 22px;
+}
+.guesses {
+    display: table;
+    margin: 0 auto;
+}
+ul#horizontal-list {
+    min-width: 699px; 
+    list-style: none;
+    padding-top: 20px
+}
+.guess {
+    background: white;
+    display: inline;
+    font-size: 60px;
+    border: 1px solid black;
+    padding: 0 25px; 
+    border-radius: 10%;
+}
+#submit {
+    position: relative;
+    bottom: 31px;
+    left: 1px; 
+    margin-left: 65px; 
+    color: white;
+    border-radius: 50px;
+}
+#playerinput {
+    border-radius: 50px;
+    font-size: 60px;
+    width: 100px; 
+    height: 100px;
+}
+#input-parent {
+    text-align: center; 
+    margin: auto; 
+    padding-right: 1034px; 
+}
+
+ 
+
+
